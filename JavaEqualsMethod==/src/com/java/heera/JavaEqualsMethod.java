@@ -1,4 +1,4 @@
-package com.java.heera;
+package com.heera.java;
 public class JavaEqualsMethod {
 
 	public static void main(String[] args) {
