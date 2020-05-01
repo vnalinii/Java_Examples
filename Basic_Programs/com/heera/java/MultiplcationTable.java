@@ -14,7 +14,7 @@ public class MultiplcationTable {
 			
 			System.out.println(num + "*" + i + "=" + product);
 		}
-
+		scan.close();
 	}
 
 }

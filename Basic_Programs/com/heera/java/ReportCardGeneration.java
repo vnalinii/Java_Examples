@@ -13,7 +13,7 @@ public class ReportCardGeneration {
 		int numsub = sc.nextInt();
 		// System.out.println("enter mark of subject n["+n[i]+"] : ");
 		int[] marks = new int[numsub];
-
+		sc.close();
 		for (int i = 0; i < numsub; i++) {
 			System.out.println("enter mark for Subject-" + (i + 1) + ":\t");
 			marks[i] = sc.nextInt();
