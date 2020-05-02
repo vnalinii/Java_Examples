@@ -1,4 +1,5 @@
 package com.heera.java;
+
 import java.util.Scanner;
 
 public class primeNumber {
