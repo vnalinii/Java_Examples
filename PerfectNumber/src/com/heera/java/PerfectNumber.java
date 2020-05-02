@@ -1,4 +1,5 @@
 package com.heera.java;
+
 public class PerfectNumber {
 //Perfect Number--> 6-> 1,2,3
 	//28--> 1,2,4,7,14
